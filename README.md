@@ -24,7 +24,7 @@ Seven Bridges, while a web framework, is very CLI driven. It provides power full
 ```
 poetry new my_web_app
 cd my_web_app
-poetry add seven_bridges
+poetry add webversal
 poetry run sb new server # or poetry run sb gen serverless if you want to boostrap an AWS Lambda Project
 ```
 

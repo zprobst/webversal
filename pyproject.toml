@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "seven_bridges"
+name = "webversal"
 version = "0.1.0"
 description = ""
 authors = ["Zach Probst <zprobst@resilientvitality.com>"]
@@ -16,6 +16,7 @@ uvloop = "^0.16.0"
 neo4j = "^4.4.4"
 colorlog = "^6.6.0"
 python-json-logger = "^2.0.2"
+sentry-sdk = "^1.6.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"

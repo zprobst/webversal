@@ -1,4 +1,4 @@
-from seven_bridges.tricks.class_property import classproperty
+from webversal.tricks.class_property import classproperty
 
 from . import get_logger
 
