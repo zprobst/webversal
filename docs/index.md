@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Webversal
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Webversal is a modern, fast, and Graph Databse based Python Web Framework. It is built on the following guiding principals:
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Leverages **Modern Python Features** such as async and type .
+* Graph Database driven data model.
+* Batteries Included (and swappable) framework components.
